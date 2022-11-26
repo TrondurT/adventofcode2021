@@ -1,0 +1,5 @@
+with open('example.txt', 'r') as f:
+    Data = [x[:-1] for x in f.readlines()]
+
+for item in Data:
+    print(item)

@@ -1,0 +1,41 @@
+fun1
+inp w
+mul x 0
+add x z
+mod x 26	set x til konstantin í poligoninum
+div z 1
+add x arg1      x er konstanturin í polygoninum + arg1
+eql x w
+eql x 0		setur bool
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y arg2
+mul y x
+add z y
+		um bool ganga vit við x og seta "w"+arg2
+
+fun2
+inp w    
+mul x 0  
+add x z  
+mod x 26	set x til konstantin í poligoninum
+div z 26 	fjerna konstantin
+add x arg1      x er konstanturin í polygoninum + arg1
+eql x w  
+eql x 0		setur bool (konstant + arg1 == "w"), ("w_old" + arg2_old == "w"-arg1)
+mul y 0  
+add y 25 
+mul y x  
+add y 1  
+mul z y  
+mul y 0  
+add y w  
+add y arg2  
+mul y x  
+add z y  
+		um bool ganga vit við x og seta "w"+arg2 annars einki

@@ -1,0 +1,33 @@
+inp w    #i_1			9
+inp w    #i_2			9
+inp w    #i_3			9
+inp w    #i_4			9
+inp w    #i_5			9
+inp w    #i_5 != i_6		9
+inp w    #i_7			9
+inp w    #i_7!=i_8+4		5
+inp w    #i_8+2 != i_9		7
+inp w    #i10			2
+inp w    #i_10+7 !=i_11		9
+inp w    #i_11 != i_12+7	2
+inp w    #i_12 != i_13		2
+inp w    #i_13+5 != i14		7
+
+99999995729227
+
+inp w    #i_1			9	1
+inp w    #i_2			9	1, 2
+inp w    #i_3			9	1, 2, 3
+inp w    #i_4			9	1, 2, 3
+inp w    #i_5			9
+inp w    #i_5 != i_6		9
+inp w    #i_7			9
+inp w    #i_7!=i_8+4		5
+inp w    #i_8+2 != i_9		7
+inp w    #i10			2
+inp w    #i_10+7 !=i_11		9
+inp w    #i_11 != i_12+7	2
+inp w    #i_12 != i_13		2
+inp w    #i_13+5 != i14		7
+
+99999995729227

@@ -1,0 +1,61 @@
+inp w
+add x 1
+mul y 0
+add y w
+add y 13
+add z y
+inp w
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 16
+add z y
+inp w
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 2
+add z y
+inp w
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 8
+add z y
+inp w
+inp w      #her gangi eg út frá at i_5 != i_6
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 6
+add z y
+inp w
+inp w      #i_7!=i_8+4
+inp w      #i_8+2 != i_9
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 2
+add z y
+inp w
+inp w    #i_10+7 !=i_11
+inp w    #i_11 != i_12+7
+inp w    #i_12 != i_13
+inp w    #i_13+5 != i14
+mul y 0
+add y 26
+mul z y
+mul y 0
+add y w
+add y 10
+add z y
